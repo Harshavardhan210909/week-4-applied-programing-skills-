@@ -21,16 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0641-design-circular-deque) |
 ## Linked List
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
