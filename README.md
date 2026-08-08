@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0641-design-circular-deque) |
 ## Linked List
@@ -37,4 +38,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0641-design-circular-deque) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
