@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0641-design-circular-deque) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0933-number-of-recent-calls) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -67,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0933-number-of-recent-calls) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
