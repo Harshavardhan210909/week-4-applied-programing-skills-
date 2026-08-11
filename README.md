@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0641-design-circular-deque) |
 ## Design
@@ -82,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshavardhan210909/week-4-applied-programing-skills-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
